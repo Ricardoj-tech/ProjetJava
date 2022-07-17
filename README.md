@@ -1,0 +1,2 @@
+# ProjetJava
+Gestion de comptes bancaires : Le but de ce travail est de créer une application java avec une interface graphique pour la gestion des comptes bancaires d'un établissement financier. On peut ajouter un client, voir la position d'un client, obtenir la liste de clients. Un client peut ouvrir un compte, regarder son compte en tout temps, déposer et retirer de l'argent et même fermer le compte.
